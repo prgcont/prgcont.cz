@@ -20,6 +20,13 @@ Just download binary from https://github.com/spf13/hugo/releases
 hugo new post/good-to-great.md
 ```
 
+- Add our theme
+
+```
+cd themes
+git clone https://github.com/digitalcraftsman/hugo-creative-theme
+```
+
 - Run local webserver
 
 ```
