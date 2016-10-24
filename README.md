@@ -32,3 +32,11 @@ git clone https://github.com/digitalcraftsman/hugo-creative-theme
 ```
 hugo server
 ```
+
+
+- Generate new version
+
+
+```
+hugo -d docs/
+```
