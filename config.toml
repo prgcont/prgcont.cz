@@ -1,4 +1,4 @@
-baseurl = "http://containers-prague.github.io"
+baseurl = "http://prgcont.cz/"
 languageCode = "en-us"
 title = "Containers Meetups Prague"
 theme = "hugo-creative-theme"
