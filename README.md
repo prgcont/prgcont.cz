@@ -23,8 +23,7 @@ hugo new post/good-to-great.md
 - Add our theme
 
 ```
-cd themes
-git clone https://github.com/digitalcraftsman/hugo-creative-theme
+git submodule update --init
 ```
 
 - Run local webserver
