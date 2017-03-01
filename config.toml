@@ -47,8 +47,8 @@ theme = "hugo-creative-theme"
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		headline    = "Prague, containers and friends"
+		description = "We are a community with a mission to connect people interested in containers, cloud and devops topics."
 		buttonText  = "Get started!"
 
 
@@ -57,44 +57,23 @@ theme = "hugo-creative-theme"
 		headline = "At your service"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+                icon = "fa-meetup"
+                title = "Get social!"
+                description = "Join our [meetup group](https://www.meetup.com/Prague-Containers-Meetup)."
+
+	[[params.services.list]]
+                icon = "fa-podcast"
+                title = "We want you to speak!"
+                description = "[Submit](https://docs.google.com/a/l-d-j.org/forms/d/e/1FAIpQLSd5wAgmpjevYnLymlVEKPf6kOx_07Fun_wA-Fpd1dg4yekdUQ/viewform) your talk proposal"
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
-
-		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+                icon = "fa-github-alt"
+                title = "I want to help."
+                description = "See our current [issues](https://www.github.com/containers-prague)"
 
         [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+                icon = "fa-slack"
+                title = "Where do you live."
+                description = "Join our slack!"
 
 
-    # Portfolio modals
-	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        category = "Category"
-        buttonText = "Close"
-
-    # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
-
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
-
-	# Contact section
-	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
