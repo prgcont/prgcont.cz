@@ -69,7 +69,7 @@ theme = "hugo-creative-theme"
         [[params.services.list]]
                 icon = "fa-github-alt"
                 title = "I want to help."
-                description = "See our current [issues](https://www.github.com/containers-prague)"
+                description = "Check our github [repos](https://www.github.com/prgcont)"
 
         [[params.services.list]]
                 icon = "fa-slack"

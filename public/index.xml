@@ -2,21 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prague Container Meetup</title>
-    <link>http://prgcont.cz/index.xml</link>
+    <link>http://prgcont.cz/</link>
     <description>Recent content on Prague Container Meetup</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2016 12:28:18 +0200</lastBuildDate>
-    <atom:link href="http://prgcont.cz/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>good to great</title>
-      <link>http://prgcont.cz/post/good-to-great/</link>
-      <pubDate>Sun, 23 Oct 2016 12:28:18 +0200</pubDate>
-      
-      <guid>http://prgcont.cz/post/good-to-great/</guid>
-      <description></description>
-    </item>
+	<atom:link href="http://prgcont.cz/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
