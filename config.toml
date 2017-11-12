@@ -2,6 +2,8 @@ baseurl = "http://prgcont.cz/"
 languageCode = "en-us"
 title = "Prague Container Meetup"
 theme = "hugo-creative-theme"
+publishDir = "docs"
+
 
 [params]
 
