@@ -28,7 +28,7 @@ theme = "hugo-creative-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "Prague Container Meetup"
+		brand = "Prague Containers Meetup"
 
 		[params.navigation.links]
 			about     = "About"
@@ -74,6 +74,6 @@ theme = "hugo-creative-theme"
         [[params.services.list]]
                 icon = "fa-slack"
                 title = "Where do you live."
-                description = "Join our slack!"
+                description = "[Join our slack!](https://prgcont.slack.com/)"
 
 
