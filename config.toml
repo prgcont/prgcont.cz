@@ -1,6 +1,6 @@
 baseurl = "http://prgcont.cz/"
 languageCode = "en-us"
-title = "Prague Container Meetup"
+title = "Prague Containers Meetup"
 theme = "hugo-creative-theme"
 publishDir = "docs"
 
@@ -42,7 +42,7 @@ publishDir = "docs"
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Prague Container Meetup"
+		slogan     = "Prague Containers Meetup"
 		subtitle   = "Welcome to [Prague Containers Meetup](https://www.meetup.com/Prague-Containers-Meetup/) group."
 		buttonText = "Find out more"
 
