@@ -71,7 +71,7 @@ publishDir = "docs"
         [[params.services.list]]
                 icon = "fa-github-alt"
                 title = "I want to help."
-                description = "Check our github [repos](https://www.github.com/prgcont)"
+                description = "Find a suitable [task](https://github.com/prgcont/issues/issues)!"
 
         [[params.services.list]]
                 icon = "fa-slack"
