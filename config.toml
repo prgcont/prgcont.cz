@@ -1,4 +1,4 @@
-baseurl = "http://prgcont.cz/"
+baseurl = "https://prgcont.cz/"
 languageCode = "en-us"
 title = "Prague Containers Meetup"
 theme = "hugo-creative-theme"

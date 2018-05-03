@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://prgcont.cz/categories/</loc>
+    <loc>https://prgcont.cz/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://prgcont.cz/</loc>
+    <loc>https://prgcont.cz/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://prgcont.cz/tags/</loc>
+    <loc>https://prgcont.cz/tags/</loc>
     <priority>0</priority>
   </url>
   
