@@ -74,8 +74,8 @@ publishDir = "docs"
                 description = "Check our github [repos](https://www.github.com/prgcont)"
 
         [[params.services.list]]
-                icon = "fa-slack"
+                icon = "fa-telegram"
                 title = "Where do you live."
-                description = "[Join our slack!](https://prgcont.slack.com/)"
+                description = "Join us on [Telegram!](https://t.me/joinchat/EeelM03BuW8bejtxl3W4cw)"
 
 
