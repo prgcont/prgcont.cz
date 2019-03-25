@@ -69,6 +69,16 @@ publishDir = "docs"
                 description = "[Submit](https://docs.google.com/a/l-d-j.org/forms/d/e/1FAIpQLSd5wAgmpjevYnLymlVEKPf6kOx_07Fun_wA-Fpd1dg4yekdUQ/viewform) your talk proposal"
 
         [[params.services.list]]
+                icon = "fa-medium"
+                title = "Get educated!"
+                description = "Read our awesome [blog](https://medium.com/prgcont)!"
+
+        [[params.services.list]]
+                icon = "fa-twitter"
+                title = "Stay informed!"
+                description = "Follow us on [twitter](https://twitter.com/prgcont)!"
+
+        [[params.services.list]]
                 icon = "fa-github-alt"
                 title = "I want to help."
                 description = "Find a suitable [task](https://github.com/prgcont/issues/issues)!"
