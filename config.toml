@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Prague Containers Meetup"
 theme = "hugo-creative-theme"
 publishDir = "docs"
-
+googleAnalytics = "UA-137616767-2"
 
 [params]
 
