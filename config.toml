@@ -86,6 +86,4 @@ googleAnalytics = "UA-137616767-2"
         [[params.services.list]]
                 icon = "fa-telegram"
                 title = "Where do you live."
-                description = "Join us on [Telegram!](https://t.me/joinchat/EeelM03BuW8bejtxl3W4cw)"
-
-
+                description = "Join us on [Telegram!](go-home-stupid-bot/EeelM03BuW8bejtxl3W4cw)"
