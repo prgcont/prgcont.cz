@@ -9,4 +9,11 @@
 {{ "<!-- Custom Theme JavaScript -->" | safeHTML }}
 <script src="{{ .Site.BaseURL }}js/creative.js"></script>
 {{ "<!-- Custom JS -->" | safeHTML }}
-<script src="{{ .Site.BaseURL }}js/custom.js"></script>
+<script type="application/javascript">
+$(document).ready(function () {
+	$('a[href^="go-home-stupid-bot"]').each(function (index) {
+		oh = $(this).attr("href").replace("go-home-stupid-bot", "https://t.me/joinchat");
+		$(this).attr("href", oh);
+	});
+});
+</script>
